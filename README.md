@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there x-special/nautilus-clipboard
+copy
+file:///home/tracy/Desktop/waving.jpeg
+, Im Tracy Lethoko
 
 <!--
 **MissTracy/MissTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
