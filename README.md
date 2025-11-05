@@ -12,6 +12,12 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building more real-world applications.
 
+---
+
+🧰 Toolbox
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java logo"
 <!--
 **MissTracy/MissTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
