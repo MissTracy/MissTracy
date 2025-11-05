@@ -17,7 +17,7 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 🧰 Toolbox
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java logo"> width="50" height="50"/
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java logo" width="50" height="50">
 <!--
 **MissTracy/MissTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
