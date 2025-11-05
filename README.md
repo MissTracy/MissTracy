@@ -1,9 +1,8 @@
 ## Hey, I'm Tracy! <img src ="https://github.com/MissTracy/MissTracy/blob/main/wave.gif" width="30px" height="512" />
 
+<br><br>
 
-
-
-## About Me 👩🏾‍💻
+### About Me 👩🏾‍💻
 
 I’m a Software Engineer who loves exploring technology’s possibilities and finding innovative ways to improve our lives. Always eager to learn from others and build solutions that matter.
 
@@ -14,8 +13,11 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building more real-world applications.
 
+<br><br>
 
-## Toolbox 🧰 
+---
+
+### Toolbox 🛠️
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="sql logo" width="50" height="50">
@@ -23,8 +25,11 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellijlogo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50">
 
+<br><br>
+---
 
-## 📌 Projects
+
+### 📌 Projects
 
 Here are some of my projects (to be updated as I progress!):
 
@@ -55,8 +60,11 @@ Here are some of my projects (to be updated as I progress!):
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ⏳ In Progress
- 
- 
+
+ <br><br>
+
+ ---
+
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MissTracy)  
