@@ -1,4 +1,7 @@
-## Hi there <img width="30px" height="512" alt="image" src="https://github.com/user-attachments/assets/ce58ac73-da9f-4e26-a9f4-0b6aa8a8bd1a" />, Im Tracy Lethoko
+## Hi there <img width="30px" height="512" alt="image" src="https://github.com/user-attachments/assets/ce58ac73-da9f-4e26-a9f4-0b6aa8a8bd1a" />, Im Tracy Lethoko x-special/nautilus-clipboard
+copy
+file:///home/tracy/Desktop/wave.gif
+
 
 <!--
 **MissTracy/MissTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
