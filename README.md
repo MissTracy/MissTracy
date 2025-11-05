@@ -1,4 +1,4 @@
-## Hi there <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ce58ac73-da9f-4e26-a9f4-0b6aa8a8bd1a" />
+## Hi there <img width="30px" height="512" alt="image" src="https://github.com/user-attachments/assets/ce58ac73-da9f-4e26-a9f4-0b6aa8a8bd1a" />
 
 , Im Tracy Lethoko
 
