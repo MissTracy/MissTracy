@@ -5,7 +5,7 @@
 
 I’m a Software Engineer who loves exploring technology’s possibilities and finding innovative ways to improve our lives. Always eager to learn from others and build solutions that matter.
 
- 📌 I'm currently exploring:
+  🌍 I'm currently exploring:
  
 - ⌨️ **front end development**.
 - ⛓️ **blockchain Development**
@@ -20,7 +20,6 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Remixlogo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellijlogo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50">
-
 
 
 ## 📌 Projects
@@ -65,6 +64,7 @@ Here are some of my projects (to be updated as I progress!):
 ## 🏆 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MissTracy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,prs,contribs)
+![missTracy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=missTracy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **MissTracy/MissTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
