@@ -1,7 +1,15 @@
 ## Hey, I'm Tracy! <img width="30px" height="512" alt="image" src="https://github.com/user-attachments/assets/ce58ac73-da9f-4e26-a9f4-0b6aa8a8bd1a" />
+--
+
+## 🎯 About Me
 
 I’m a Software Engineer who loves exploring technology’s possibilities and finding innovative ways to improve our lives. Always eager to learn from others and build solutions that matter.
 
+ 📌 I'm currently exploring:
+- 👩🏾‍💻 **front end development**.
+- ⛓️ **blockchain Development**!
+- 🤖 I love problem-solving and working on creative projects.
+- 🔥 Looking forward to building more real-world applications.
 
 <!--
 **MissTracy/MissTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
