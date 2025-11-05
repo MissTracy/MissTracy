@@ -1,4 +1,6 @@
-## Hey, I'm Tracy! <img width="30px" height="512" alt="image" src="https://github.com/user-attachments/assets/ce58ac73-da9f-4e26-a9f4-0b6aa8a8bd1a" />
+## Hey, I'm Tracy! <img src ="https://github.com/MissTracy/MissTracy/blob/main/wave.gif" width="30px" height="512" />
+
+
 
 
 ## About Me 👩🏾‍💻
