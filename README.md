@@ -36,7 +36,16 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 
 Here are some of my projects (to be updated as I progress!):
 
-### **1️⃣ Inverstor witdrawal**
+Link: https://github.com/MissTracy/Sweepstake-SmartContract
+
+🔹 Description: An upgradeable Ethereum sweepstake smart contract that allows users to contribute ETH into a
+   pooled round, with a provably fair winner selected using Chainlink VRF. The entire pool balance is automatically 
+   distributed to the winner at the end of each round.
+🔹 Technologies: Solidity, Hardhat, OpenZeppelin (Upgradeable Contracts), Chainlink VRF, Ethers.js
+🔹 Network: Sepolia Testnet
+🔹 Status: ✅ Completed
+
+### ** Inverstor witdrawal**
 
 🔹 **Link:** https://github.com/MissTracy/InvestorWithdrawal
 🔹 **Description:** A Spring Boot application that automates the withdrawal 
@@ -44,21 +53,21 @@ Here are some of my projects (to be updated as I progress!):
  🔹 **Technologies:** Java,Spring Boot,PostgreSQL
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ AWS Textract**
+### ** AWS Textract**
 
 🔹 **Link:** [https://github.com/MissTracy/InvestorWithdrawal](https://github.com/MissTracy/AWSTextract)
 🔹 **Description:** This project showcases how to use AWS Textract for extracting text from PDF documents
 🔹 **Technologies:** Java,JavaFX,AWS Textract
 🔹 **Status:** ✅ Completed
 
-### **3️⃣ Websites** 
+### ** Websites** 
 
 🔹 **Link:** https://pwermedia.com/, https://www.orchardstays.com/
 🔹 **Description:** A web development agency & Short term reantal Co.
 🔹 **Technologies:** Wordpress,HTML & CSS to personalise template
 🔹 **Status:** ✅ Completed
 
-### **4️⃣ Personal Portfolio** (Coming Soon!)
+### ** Personal Portfolio** (Coming Soon!)
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
