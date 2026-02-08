@@ -36,6 +36,8 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 
 Here are some of my projects (to be updated as I progress!):
 
+### ** Inverstor witdrawal**
+
 Link: https://github.com/MissTracy/Sweepstake-SmartContract
 
 🔹 Description: An upgradeable Ethereum sweepstake smart contract that allows users to contribute ETH into a
@@ -45,7 +47,7 @@ Link: https://github.com/MissTracy/Sweepstake-SmartContract
 🔹 Network: Sepolia Testnet
 🔹 Status: ✅ Completed
 
-### ** Inverstor witdrawal**
+### ** Sweepstake Smart Conract**
 
 🔹 **Link:** https://github.com/MissTracy/InvestorWithdrawal
 🔹 **Description:** A Spring Boot application that automates the withdrawal 
