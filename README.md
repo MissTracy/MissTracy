@@ -36,7 +36,7 @@ I’m a Software Engineer who loves exploring technology’s possibilities and f
 
 Here are some of my projects (to be updated as I progress!):
 
-### ** Sweepstake Smart Conract**
+### ** Sweepstake Smart Contract**
 
 Link: https://github.com/MissTracy/Sweepstake-SmartContract
 
