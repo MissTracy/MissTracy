@@ -181,9 +181,6 @@ Designed, developed, and customized WordPress websites using Elementor, HTML, an
 
 ---
 
-## 📈 GitHub Activity
-
-[![Tracy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MissTracy&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
