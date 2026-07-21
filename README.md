@@ -94,7 +94,7 @@ Sepolia Testnet
 
 ### 💰 Investor Withdrawal
 
-🔗 **Repository:** [Sweepstakes Smart Contract](https://github.com/MissTracy/InvestorWithdrawal)
+🔗 **Repository:** [Investor withdrawal](https://github.com/MissTracy/InvestorWithdrawal)
 
 **Description**
 
@@ -115,7 +115,7 @@ securely storing customer information in PostgreSQL.
 
 ### 📄 AWS Textract
 
-🔗 **Repository:** [Sweepstakes Smart Contract](https://github.com/MissTracy/AWSTextract)
+🔗 **Repository:** [AWS Textract](https://github.com/MissTracy/AWSTextract)
 
 **Description**
 
