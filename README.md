@@ -65,22 +65,23 @@ Git • GitHub • IntelliJ IDEA • VS Code
 
 ## 📂 Featured Projects
 
-### 🎲 Sweepstakes Smart Contract
+### 🎲 **NFT Staking DApp**
 
-🔗 **Repository:** [Sweepstakes Smart Contract](https://github.com/MissTracy/Sweepstake-SmartContract)
+🔗 **Repository:** [NFT Staking DApp – Smart Contracts](https://github.com/MissTracy/NFTStakingDApp-smartContracts)
 
 **Description**
 
-Upgradeable Ethereum sweepstakes smart contract that uses Chainlink VRF to 
-select a provably fair winner and automatically distribute the prize pool.
+NFT staking platform with smart contracts that allow users to stake NFTs for fixed periods(30,60 or 90 days) and earn ERC-20 token rewards based on NFT rarity.
 
 **Technologies**
 
-- Solidity
-- Hardhat
-- OpenZeppelin Upgradeable Contracts
-- Chainlink VRF
-- Ethers.js
+* Solidity
+* Hardhat
+* OpenZeppelin
+* Ethers.js
+* ERC-20
+* ERC-721
+* Chainlink
 
 **Network**
 
@@ -89,6 +90,7 @@ Sepolia Testnet
 **Status**
 
 ✅ Completed
+
 
 ---
 
