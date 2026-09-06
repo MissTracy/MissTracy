@@ -4,7 +4,11 @@
 
 ## 👩🏾‍💻 About Me
 
-Passionate about building scalable, user-focused applications and continuously learning new technologies across web, cloud, and blockchain development.
+Software Developer with hands-on experience building web and backend applications using Java, Spring Boot, JavaScript, React, SQL, and WordPress, with additional experience in Solidity and Web3.
+
+Comfortable translating requirements into working features, working with APIs and databases, testing and debugging applications, and collaborating in Agile environments.
+
+I take a practical, user-focused approach to problem-solving and am eager to contribute, continue learning, and grow as a developer.
 
 ### 🌐 Portfolio
 
