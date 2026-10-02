@@ -100,18 +100,25 @@ Sepolia Testnet
 
 ### 💰 Investor Withdrawal
 
-🔗 **Repository:** [Investor withdrawal](https://github.com/MissTracy/InvestorWithdrawal)
+🔗 **Repository:** [Investor Withdrawal](https://github.com/MissTracy/InvestorWithdrawal_App)
 
 **Description**
 
-Spring Boot application that automates the investor withdrawal process while 
-securely storing customer information in PostgreSQL.
+Spring Boot REST API that manages investor withdrawals, investment products, and withdrawal requests 
+with business rule validation and PostgreSQL persistence.
 
 **Technologies**
 
-- Java
-- Spring Boot
-- PostgreSQL
+* Java
+* Spring Boot
+* Spring Data JPA
+* PostgreSQL
+* Swagger / OpenAPI
+
+**Status**
+
+✅ Completed
+
 
 **Status**
 
