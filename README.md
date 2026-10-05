@@ -4,7 +4,7 @@
 
 ## 👩🏾‍💻 About Me
 
-Software Developer with hands-on experience building web and backend applications using Java, Spring Boot, JavaScript, React and SQL, with additional experience in Wordpress Solidity and Web3.
+Software Developer with hands-on experience building web and backend applications using Java, Spring Boot, JavaScript, React and SQL, with additional experience in Wordpress, Solidity and Web3.
 
 Comfortable translating requirements into working features, working with APIs and databases, testing and debugging applications, and collaborating in Agile environments.
 
