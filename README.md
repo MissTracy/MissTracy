@@ -1,5 +1,5 @@
 # <img src="https://github.com/MissTracy/MissTracy/blob/main/wave.gif" width="30px" alt="Wave" />Hi I'm Tracy!
-###Junior Java Developer | Spring Boot | REST APIs | PostgreSQL | React
+### Junior Java Developer | Spring Boot | REST APIs | PostgreSQL | React
 
 
 ## 👩🏾‍💻 About Me
