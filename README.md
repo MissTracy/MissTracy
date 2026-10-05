@@ -69,33 +69,6 @@ Git • GitHub • IntelliJ IDEA • VS Code
 
 ## 📂 Featured Projects
 
-### 🎲 **NFT Staking DApp**
-
-🔗 **Repository:** [NFT Staking DApp – Smart Contracts](https://github.com/MissTracy/NFTStakingDApp-smartContracts)
-
-**Description**
-
-NFT staking platform with smart contracts that allow users to stake NFTs for fixed periods(30,60 or 90 days) and earn ERC-20 token rewards based on NFT rarity.
-
-**Technologies**
-
-* Solidity
-* Hardhat
-* OpenZeppelin
-* Ethers.js
-* ERC-20
-* ERC-721
-* Chainlink
-
-**Network**
-
-Sepolia Testnet
-
-**Status**
-
-✅ Completed
-
-
 ---
 
 ### 💰 Investor Withdrawal
@@ -135,6 +108,33 @@ Desktop application demonstrating how AWS Textract extracts text from PDF docume
 - Java
 - JavaFX
 - AWS Textract
+
+**Status**
+
+✅ Completed
+
+---
+### 🎲 **NFT Staking DApp**
+
+🔗 **Repository:** [NFT Staking DApp – Smart Contracts](https://github.com/MissTracy/NFTStakingDApp-smartContracts)
+
+**Description**
+
+NFT staking platform with smart contracts that allow users to stake NFTs for fixed periods(30,60 or 90 days) and earn ERC-20 token rewards based on NFT rarity.
+
+**Technologies**
+
+* Solidity
+* Hardhat
+* OpenZeppelin
+* Ethers.js
+* ERC-20
+* ERC-721
+* Chainlink
+
+**Network**
+
+Sepolia Testnet
 
 **Status**
 
